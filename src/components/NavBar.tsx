@@ -146,7 +146,6 @@ const NavBar: React.FC<Props> = ({
 									? 'text-neon'
 									: 'text-white opacity-70 hover:opacity-100',
 							)}
-							target='_blank'
 							rel='noreferrer'
 						>
 							Product
@@ -160,7 +159,6 @@ const NavBar: React.FC<Props> = ({
 									? 'text-neon'
 									: 'text-white opacity-70 hover:opacity-100',
 							)}
-							target='_blank'
 							rel='noreferrer'
 						>
 							Pricing
