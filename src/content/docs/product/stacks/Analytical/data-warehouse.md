@@ -5,6 +5,10 @@ sideBarPosition: 302
 tags: [postgres, datawarehouse, analytical]
 ---
 
+**NOTE**
+
+**The Data Warehouse stack has been deprecated. Please use the [Analytics](https://tembo.io/docs/product/stacks/analytical/analytics) stack for new instances. It provides a superset of the features the data warehouse stack provides.**
+
 Tembo DataWarehouse Stack is tuned and configured for data warehouse workloads. Extract, Transform and Load data from external sources using extensions. Build centralize datastore for analytical and tactical queries.
 
 ## Container Image
